@@ -55,7 +55,7 @@ cd /d "D:\Proyectos"
 Clona el repositorio:
 
 ```bat
-git clone https://github.com/USUARIO/REPOSITORIO.git
+git clone https://github.com/Zaffarone/git-collaboration-lab.git
 ```
 
 Reemplaza `USUARIO` y `REPOSITORIO` por los datos reales del proyecto.
@@ -63,7 +63,7 @@ Reemplaza `USUARIO` y `REPOSITORIO` por los datos reales del proyecto.
 Entra a la carpeta:
 
 ```bat
-cd REPOSITORIO
+cd git-collaboration-lab
 ```
 
 ### 2. Crear tu propia rama
